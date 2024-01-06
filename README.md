@@ -1,4 +1,4 @@
-                                        Loan Default Prediction and investment strategies in online lending
+Loan Default Prediction and investment strategies in online lending
 
 P2P lending platforms - like Lending Club (LC), Prosper, Peerform, Upstart, etc - provide an online
 environment for matching borrowers seeking loans and lenders looking to make an investment. With
